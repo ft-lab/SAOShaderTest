@@ -42,3 +42,9 @@ This software is released under the MIT License, see [LICENSE.txt](./LICENSE.txt
 骸骨の3Dモデルは、Shade3Dマーケットプレイスの以下のものを使用してます。  
 
 https://shade3d.jp/store/marketplace/ft-lab/skeleton/introduction.html
+
+## TODO
+
+- VRのSingle Passでは正しく動作しません。
+- モバイル環境では未検証です。
+- Mac環境では未検証です。
