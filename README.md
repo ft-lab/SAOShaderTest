@@ -26,7 +26,7 @@ Unity Editorでは、Cameraに対して「Scripts」-「SAO Image Effect」をAd
 「Scale」を大きくすると、AOの影響が薄くなります。  
 「Kernel Radius」はAOの影響を与える半径です。  
 「Min Resolution」は不明。  
-「MFalloff Distance」は、カメラからの距離によりAOの効果を減衰させます。  
+「Falloff Distance」は、カメラからの距離によりAOの効果を減衰させます。  
 「Blur」をOnにすると、ブラーがかかります。内部的には 2 と固定にしてます。  
 「Blur Std Dev」が小さい値の場合は、Z深度の境界が見えにくくなりますがブラーがかかりにくくなります。  
 「Blur Depth Cutoff」は不明。  
